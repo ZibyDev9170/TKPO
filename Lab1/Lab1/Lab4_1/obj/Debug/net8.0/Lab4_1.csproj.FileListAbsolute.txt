@@ -1,0 +1,14 @@
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.AssemblyInfoInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.AssemblyInfo.cs
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\bin\Debug\net8.0\Lab4_1.exe
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\bin\Debug\net8.0\Lab4_1.deps.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\bin\Debug\net8.0\Lab4_1.runtimeconfig.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\bin\Debug\net8.0\Lab4_1.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\bin\Debug\net8.0\Lab4_1.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\refint\Lab4_1.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\Lab4_1.genruntimeconfig.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab4_1\obj\Debug\net8.0\ref\Lab4_1.dll

@@ -1,0 +1,14 @@
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\bin\Debug\net8.0\Lab3_3.exe
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\bin\Debug\net8.0\Lab3_3.deps.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\bin\Debug\net8.0\Lab3_3.runtimeconfig.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\bin\Debug\net8.0\Lab3_3.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\bin\Debug\net8.0\Lab3_3.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.AssemblyInfoInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.AssemblyInfo.cs
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.csproj.CoreCompileInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\refint\Lab3_3.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\Lab3_3.genruntimeconfig.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_3\obj\Debug\net8.0\ref\Lab3_3.dll

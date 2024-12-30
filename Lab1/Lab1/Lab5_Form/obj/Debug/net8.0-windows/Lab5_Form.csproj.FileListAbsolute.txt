@@ -1,0 +1,16 @@
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.Form1.resources
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.csproj.GenerateResource.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.AssemblyInfoInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.AssemblyInfo.cs
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.csproj.CoreCompileInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\bin\Debug\net8.0-windows\Lab5_Form.exe
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\bin\Debug\net8.0-windows\Lab5_Form.deps.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\bin\Debug\net8.0-windows\Lab5_Form.runtimeconfig.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\bin\Debug\net8.0-windows\Lab5_Form.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\bin\Debug\net8.0-windows\Lab5_Form.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\refint\Lab5_Form.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\Lab5_Form.genruntimeconfig.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab5_Form\obj\Debug\net8.0-windows\ref\Lab5_Form.dll

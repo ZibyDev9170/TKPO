@@ -1,0 +1,14 @@
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\bin\Debug\net8.0\Lab3_2.exe
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\bin\Debug\net8.0\Lab3_2.deps.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\bin\Debug\net8.0\Lab3_2.runtimeconfig.json
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\bin\Debug\net8.0\Lab3_2.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\bin\Debug\net8.0\Lab3_2.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.AssemblyInfoInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.AssemblyInfo.cs
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\refint\Lab3_2.dll
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.pdb
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\Lab3_2.genruntimeconfig.cache
+C:\Users\nikya\Documents\Programming\TKPO\Lab1\Lab1\Lab3_2\obj\Debug\net8.0\ref\Lab3_2.dll
